@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@adiwajshing/baileys": "^3.5.3",
+    "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "@discordjs/collection": "^0.3.2",
     "chalk": "^4.1.2",
     "child_process": "^1.0.2",
